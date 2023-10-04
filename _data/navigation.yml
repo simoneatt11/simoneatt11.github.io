@@ -10,7 +10,8 @@ main:
     url: /cv/
   
   - title: "Publications"
-    url: /publications/
+    redirect_to: https://scholar.google.pt/citations?user=mNWBnUcAAAAJ&hl=it&oi=ao
+    #url: /publications/
 
   - title: "Resources"
     url: /Resources/    
