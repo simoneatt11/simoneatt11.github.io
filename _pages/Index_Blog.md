@@ -11,8 +11,8 @@ author_profile: true
 
 ### tests without md
 
-[Heeeeeey](../_posts/2014-08-14-blog-post-1.md)
-[Heeeeeey2](../_posts/2014-08-14-blog-post-1)
+[Heeeeeey](../_posts/2014-08-14-blog-post-3.md)
+[Heeeeeey2](../_posts/2014-08-14-blog-post-3)
 
 <!--
 - 2022-07-01 [Why Did I start](/_posts/2022-07-01-Test)
