@@ -9,8 +9,8 @@ main:
   - title: "Resources"
     url: /Resources/    
     
-  # - title: "Blog Posts"
-  #  url: /year-archive/
+  - title: "Blog Posts"
+    url: /INDEX.md/
   
    # - title: "Publications"
    #   url: /publications/
