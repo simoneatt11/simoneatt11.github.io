@@ -10,10 +10,10 @@ my first post is not even mine but at least it worked :)
 
 [Heeeeeeyagain](../_posts/2014-08-14-blog-post-3.md)
 
-===
+
 What I should test is a new post from scratch into post parent directory
 [personal test](../_posts/2023-10-08-Test.md)
-===
+
 see
 if something 
 changes
