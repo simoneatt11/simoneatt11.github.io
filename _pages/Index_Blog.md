@@ -11,6 +11,9 @@ author_profile: true
 
 ### tests without md
 
+[Heeeeeeyagain](../_posts/2014-08-14-blog-post-3.md)
+
+
 [Heeeeeey](../_posts/2014-08-14-blog-post-3.md)
 [Heeeeeey2](../_posts/2014-08-14-blog-post-3)
 
