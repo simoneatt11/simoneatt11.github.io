@@ -13,7 +13,7 @@ my first post is not even mine but at least it worked :)
 ### 2022
 
 What I should test is a new post from scratch into post parent directory
-[Link to Today's Post](../_posts/2023-10-08-Today.md)
+- 20230810 - [Link to Today's Post](../_posts/2023-10-08-Today.md)
 
 
 see
