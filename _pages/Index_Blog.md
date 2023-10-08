@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Index Blog"
+permalink: /Index_Blog/
+author_profile: true
+---
+
 ## 2023
 
 ## 2022
