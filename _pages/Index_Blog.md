@@ -9,7 +9,8 @@ author_profile: true
 
 ## 2022
 
-- 2022-07-01 Why Did I start
+- [2022-07-01 Why Did I start](/_posts/2022-07-01.md)
+
 
 I will talk about 
 [] Topic 1 
