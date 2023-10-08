@@ -12,3 +12,4 @@ my first post is not even mine but at least it worked :)
 
 ===
 What I should test is a new post from scratch into post parent directory
+[personal test](../_posts/2023-10-08-Test.md)
