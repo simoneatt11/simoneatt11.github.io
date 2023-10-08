@@ -10,7 +10,7 @@ main:
     url: /Resources/    
     
   - title: "Blog Posts"
-    url: /Index_Blog.md/
+    url: /Index_Blog/
   
    # - title: "Publications"
    #   url: /publications/
