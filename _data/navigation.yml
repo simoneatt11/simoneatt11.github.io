@@ -12,8 +12,8 @@ main:
   - title: "Blog Posts"
     url: /Index_Blog/
 
-- title: "Blog Posts 2"
-    url: /INDEX/
+# - title: "Blog Posts 2"
+#   url: /INDEX/
   
    # - title: "Publications"
    #   url: /publications/
