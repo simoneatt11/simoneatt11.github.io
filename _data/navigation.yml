@@ -12,6 +12,9 @@ main:
   - title: "Blog Posts"
     url: /Index_Blog/
 
+  - title: "Books"
+    url: /Index_Book/
+
 # - title: "Blog Posts 2"
 #   url: /INDEX/
   
