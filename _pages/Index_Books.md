@@ -9,6 +9,8 @@ author_profile: true
 ### Reading
 my first book summary 
 
-- 20230820 - [Link to Today's Book](../_Books/2023-10-22-Book1.md)
+- 20230820 - [Link to Today's Book](../_Books/2023-10-22-NewBook.md)
 
 ### Read
+
+### readlist
