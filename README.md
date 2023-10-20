@@ -1,5 +1,5 @@
 ### To Do 
-- ~~ Add a subdirectory Page on data-navigation called book ~~
+- <del>Add a subdirectory Page on data-navigation called book</del>
 - Add a book.md in _pages to redirect the header menu
 - add a subdirectory similar to "_post" which is called "_books" and contains boofs-summary-files
 
