@@ -6,7 +6,7 @@ tags:
   - PyMol
 ---
 
-### Visualizing proteins
+### Visualizing proteins here
 
 Is representation of protein useful? 
 Should we know how proteins we work with are represented into the three dimensional space? 
