@@ -16,3 +16,11 @@ Tubulin is one of the first proteins I entered in contact with during my career.
 At the end of this post you can also find a script that can automatically take your PDB file and generate the high-quality image you may need. 
 
 ![Tubulin](../images/Tub20231115.png)
+
+---
+Useful links
+- [PyMol Command Reference](https://pymol.org/pymol-command-ref.html)
+- General [PyMol Wiki](https://pymolwiki.org/index.php/Main_Page)
+- A good [youtube videos playlist](https://www.youtube.com/watch?v=UN8cj7omiCM&list=PLUMhYZpMLtanlp_zVde7CWsRr1EnCzAFD&index=1) on how to use pymol
+- [PyMol tutorial](https://www.youtube.com/watch?v=o4XR-0VTXrY&t=2193s) ~ 1 hour 
+- [Video tutorial](https://www.youtube.com/watch?v=fVOpB75Xzmo&t=2s) for preparing good quality images
