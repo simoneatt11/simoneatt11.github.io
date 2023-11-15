@@ -24,8 +24,10 @@ Tubulin is one of the first proteins I entered in contact with during my career.
 
 ![Tubulin](../images/Tub20231115.png)
 
-At the end of this post you can also find a script that can automatically take your PDB file and generate the high-quality image you may need. 
 
+"""
+wip
+At the end of this post you will also find a script that can automatically take your PDB file and generate the high-quality image you may need. 
 
 ---
 ### Useful links
@@ -36,4 +38,5 @@ At the end of this post you can also find a script that can automatically take y
 - [Video tutorial](https://www.youtube.com/watch?v=fVOpB75Xzmo&t=2s) for preparing good quality images
 ---
 ### References
-- Uversky, Vladimir N., and A. Keith Dunker. "Understanding protein non-folding." Biochimica et Biophysica Acta (BBA)-Proteins and Proteomics 1804.6 (2010): 1231-1264. 
+- [Uversky, Vladimir N., and A. Keith Dunker. "Understanding protein non-folding." Biochimica et Biophysica Acta (BBA)-Proteins and Proteomics 1804.6 (2010): 1231-1264.](Uversky, Vladimir N., and A. Keith Dunker. "Understanding protein non-folding." Biochimica et Biophysica Acta (BBA)-Proteins and Proteomics 1804.6 (2010): 1231-1264.)
+- 
