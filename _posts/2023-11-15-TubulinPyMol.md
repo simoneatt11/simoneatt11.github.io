@@ -6,16 +6,27 @@ tags:
   - PyMol
 ---
 
-### Visualizing proteins here
+-> this file is still a work in progress <- 
 
-Is representation of protein useful? 
-Should we know how proteins we work with are represented into the three dimensional space? 
-Are the information coming from structural biologists relevant for wet biologists? 
+### Visualizing proteins
+
+1. Is representation of protein useful?
+2. Should we know how proteins we work with are represented into the three dimensional space?
+3. Are the information coming from structural biologists relevant for wet biologists?
+
+First: Protein representations are cool. Second: no way to get a publication-quality figure without a program like Chimera or PyMol. That should be enough to motivate you in learning how to use them. 
+
+A part from that, learning how to modeling proteins is necessary for structural analysis, molecular docking, molecular dynamic simulations, structural similarities and much more. 
+
+My experience with protein modelling and with protein folding is unfortunate. Almost my entire career was based on the study of Intrinsically Disordered Proteins (IDP) like Tau and Synuclein. These proteins are also called misfolding proteins... Easy to get from their names, it's kind of hard to get their 3D structure (even for AlphaFold).
 
 Tubulin is one of the first proteins I entered in contact with during my career. I thought it could be a good idea to show how to achieve a representation similar to this one. 
-At the end of this post you can also find a script that can automatically take your PDB file and generate the high-quality image you may need. 
 
 ![Tubulin](../images/Tub20231115.png)
+
+At the end of this post you can also find a script that can automatically take your PDB file and generate the high-quality image you may need. 
+
+
 
 ---
 Useful links
