@@ -23,6 +23,9 @@ My experience with protein modelling and with protein folding is unfortunate. Al
 Tubulin is one of the first proteins I entered in contact with during my career. I thought it could be a good idea to show how to achieve a representation similar to this one. 
 
 ![Tubulin](../images/Tub20231115.png)
+*Tubulin in PyMol*
+
+... Add script and final thoughts
 
 
 """
