@@ -26,8 +26,6 @@ Tubulin is one of the first proteins I entered in contact with during my career.
 *Tubulin in PyMol*
 
 What I would like to understand / learn
-
-... Add script and final thoughts
 ![Screenshot 2023-11-22 at 23 03 15](https://github.com/simoneatt11/simoneatt11.github.io/assets/61795621/affbb85b-e655-4b07-9ccc-b4e57d7312c0)
 
 Is it possible to force some commands from the toolbar directly into a hardwritten protocol? Is there a command that I can call using the command line?  Until now (2023_Nov) it seems that there is no way of doing it...
