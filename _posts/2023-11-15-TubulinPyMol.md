@@ -30,8 +30,9 @@ What I would like to understand / learn
 
 Is it possible to force some commands from the toolbar directly into a hardwritten protocol? Is there a command that I can call using the command line?  Until now (2023_Nov) it seems that there is no way of doing it...
 
----
 At the end of this post you will also find a script that can automatically take your PDB file and generate the high-quality image you may need.
+
+
 ---
 ### Useful links
 - [PyMol Command Reference](https://pymol.org/pymol-command-ref.html)
@@ -39,7 +40,8 @@ At the end of this post you will also find a script that can automatically take 
 - A good [youtube videos playlist](https://www.youtube.com/watch?v=UN8cj7omiCM&list=PLUMhYZpMLtanlp_zVde7CWsRr1EnCzAFD&index=1) on how to use pymol
 - [PyMol tutorial](https://www.youtube.com/watch?v=o4XR-0VTXrY&t=2193s) ~ 1 hour 
 - [Video tutorial](https://www.youtube.com/watch?v=fVOpB75Xzmo&t=2s) for preparing good quality images
+
+
 ---
 ### References
 - [Uversky, Vladimir N., and A. Keith Dunker. "Understanding protein non-folding." Biochimica et Biophysica Acta (BBA)-Proteins and Proteomics 1804.6 (2010): 1231-1264.](Uversky, Vladimir N., and A. Keith Dunker. "Understanding protein non-folding." Biochimica et Biophysica Acta (BBA)-Proteins and Proteomics 1804.6 (2010): 1231-1264.)
-- 
