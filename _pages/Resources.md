@@ -68,6 +68,7 @@ I hope you find something useful.
 - [Computational Biology (miscellaneous)](https://github.com/Developer-Y/cs-video-courses#computational-biology)
 - [Data Visualization (Resources)](https://docs.google.com/spreadsheets/d/153VuijPzulo-chtHRqErqBnkHIo77ar0y0FSGYODzd0/edit?usp=sharing) - from (https://www.datavisualizationsociety.org/)
 - [Open Bioinformatics Foundation (Resources and events)](https://www.open-bio.org/)
+- [Python for microscopists](https://www.youtube.com/watch?v=X_pCiVQ4c4E&list=PLZsOBAyNTZwYHBIlu_PUO19M7aHMgwBJr) - YouTube Playlist by DigitalSreeni
 
 ### Amy 
 - [Human integrated protein-protein interaction reference (HIPPIE)](http://cbdm-01.zdv.uni-mainz.de/~mschaefer/hippie/index.php)
