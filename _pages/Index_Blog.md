@@ -14,6 +14,7 @@ my first post is not even mine but at least it worked :)
 
 my own public diary - writing my thesis
 
+- 20231130 - [Where is Pikachu](../_posts/2023-11-30-Pikachu.md)
 - 20231115 - [Tubulin representation](../_posts/2023-11-15-TubulinPyMol.md)
 - 20231107 - [Writing...](../_posts/2023-11-07-Writing.md)
 - 20230810 - [Link to Today's Post](../_posts/2023-10-08-Today.md)
