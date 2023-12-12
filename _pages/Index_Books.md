@@ -9,9 +9,8 @@ author_profile: true
 ### Reading
 my first book summary 
 
-- 20231212 - [Booooh](../_books1/2023-12-12-Boooook.md)
-
-- 20231212 - [testLibro](../_books1/2023-12-12-BookTest.md)
+- 20231212 - [Longitudine](../_posts/2023-12-12-Longitudine.md)
+Un ultimo tentativo
 
 
 - What I should test is a new post from scratch into post parent directory
