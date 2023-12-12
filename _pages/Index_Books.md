@@ -9,9 +9,7 @@ author_profile: true
 ### Reading
 my first book summary 
 
-- first book summary
-- 20231020 - [Call Bull](../_books1/2023-10-20-bookCallBull.md)
-
+- 20231212 - [testLibro](../_books1/2023-12-12-BookTest.md)
 
 
 - What I should test is a new post from scratch into post parent directory
