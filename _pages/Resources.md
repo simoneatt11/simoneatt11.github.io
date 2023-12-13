@@ -35,9 +35,10 @@ I hope you find something useful.
 - [Python Exercises - adventofcode](https://adventofcode.com/)
 - [PyNative - Exercises](<https://pynative.com/python-exercises-with-solutions/>)
 - [GWAS Cathalog(EBI)](https://www.ebi.ac.uk/gwas/home)
-- [R for Data Science](https://r4ds.had.co.nz/index.html)
 - [Biopython Tutorial (website)](http://biopython.org/DIST/docs/tutorial/Tutorial.html)
 - [SQL cookbook](https://db2-sql-cookbook.org/)
+- [R for Data Science](https://r4ds.hadley.nz/) - R open source Book
+- [Python for Data Science](https://byuidatascience.github.io/python4ds/index.html) - Py open source Book
 
 # ML and AI
 - [Fast.AI](https://course.fast.ai/)
