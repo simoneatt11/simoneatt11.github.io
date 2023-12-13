@@ -8,8 +8,8 @@ These are some of the resources I use and have been using.
 I hope you find something useful.
 
 ### Currently learning from here
-[FastAI](https://github.com/simoneatt11/fastbook_SA)
-[DataCamp](https://campus.datacamp.com/)
+- [FastAI](https://github.com/simoneatt11/fastbook_SA)
+- [DataCamp](https://app.datacamp.com/)
 
 ### Computational Biology 
 - [A primer for computational biology (book)](<https://bio.libretexts.org/Bookshelves/Computational_Biology/Book%3A_A_Primer_for_Computational_Biology_(O'Neil)>)
