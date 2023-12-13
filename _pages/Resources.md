@@ -59,6 +59,7 @@ I hope you find something useful.
 
 ### miscellaneous
 - [Biostar tutorials ordered by view (website)](https://www.biostars.org/t/tutorials/?order=views)
+- [Rtutor](https://rtutor.ai/) - AI teaching you R
 - [Elixir - Training material(website)](https://tess.elixir-europe.org/materials)
 - [EMBL - EBI on demand Training](https://www.ebi.ac.uk/training/on-demand)
   - [Introductiory Bioinformatics - (EMBL - EBI training)](<https://www.ebi.ac.uk/training/online/courses/introductory-bioinformatics-pathway/#vf-tabs__section--contents>)
