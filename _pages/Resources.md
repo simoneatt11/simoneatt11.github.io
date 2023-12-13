@@ -41,6 +41,8 @@ I hope you find something useful.
 - [SQL cookbook](https://db2-sql-cookbook.org/)
 - [R for Data Science](https://r4ds.hadley.nz/) - R open source Book
 - [Python for Data Science](https://byuidatascience.github.io/python4ds/index.html) - Py open source Book
+- [Data Science at the Command Line](https://jeroenjanssens.com/dsatcl/) - Unix open source Book
+- [Modern R with the tidyverse](https://modern-rstats.eu/) - R book mainly tidyverse
 
 # ML and AI
 - [Fast.AI](https://course.fast.ai/)
