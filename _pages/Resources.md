@@ -24,6 +24,7 @@ I hope you find something useful.
 - [Python Environment for Three Exploration](<http://etetoolkit.org/>)
 - [PhyloT - phylogenetic tree generator](https://phylot.biobyte.de/)
 - [Illumina Sequencing tutorials (website)](https://www.illumina.com/techniques/sequencing.html)
+- [An Owner's guide to the human Genome](https://web.stanford.edu/group/pritchardlab/HGbook.html) - book from Jonathan Pritchard
 
 ### Data Science
 - [Python IDE easy for beginners - Thonny (website)](https://thonny.org/)
