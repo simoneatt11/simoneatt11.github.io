@@ -43,6 +43,7 @@ I hope you find something useful.
 - [Python for Data Science](https://byuidatascience.github.io/python4ds/index.html) - Py open source Book
 - [Data Science at the Command Line](https://jeroenjanssens.com/dsatcl/) - Unix open source Book
 - [Modern R with the tidyverse](https://modern-rstats.eu/) - R book mainly tidyverse
+- [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/index.html)
 
 # ML and AI
 - [Fast.AI](https://course.fast.ai/)
@@ -75,6 +76,7 @@ I hope you find something useful.
 - [Data Visualization (Resources)](https://docs.google.com/spreadsheets/d/153VuijPzulo-chtHRqErqBnkHIo77ar0y0FSGYODzd0/edit?usp=sharing) - from (https://www.datavisualizationsociety.org/)
 - [Open Bioinformatics Foundation (Resources and events)](https://www.open-bio.org/)
 - [Python for microscopists](https://www.youtube.com/watch?v=X_pCiVQ4c4E&list=PLZsOBAyNTZwYHBIlu_PUO19M7aHMgwBJr) - YouTube Playlist by DigitalSreeni
+- [Modern Statistics For Biology](https://www.huber.embl.de/msmb/) - BEST Open Source Statistics Book
 
 ### Amy 
 - [Human integrated protein-protein interaction reference (HIPPIE)](http://cbdm-01.zdv.uni-mainz.de/~mschaefer/hippie/index.php)
