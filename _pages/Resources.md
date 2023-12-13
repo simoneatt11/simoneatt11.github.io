@@ -9,6 +9,7 @@ I hope you find something useful.
 
 ### Currently learning from here
 [FastAI](https://github.com/simoneatt11/fastbook_SA)
+[DataCamp](https://campus.datacamp.com/)
 
 ### Computational Biology 
 - [A primer for computational biology (book)](<https://bio.libretexts.org/Bookshelves/Computational_Biology/Book%3A_A_Primer_for_Computational_Biology_(O'Neil)>)
@@ -47,7 +48,7 @@ I hope you find something useful.
 - [R - includes ML (Chap21](https://www.bigbookofr.com/)
 - [ESM Metagenomic Atlas (Meta Protein Prediction)](https://esmatlas.com/)
 
-# Datasets
+### Datasets
 - [MJF Datasets - for PD](<https://www.michaeljfox.org/data-sets>)
 - [UK Biobank](https://ams.ukbiobank.ac.uk/ams/researcher_home.jsp)
 - [DANDI archive](https://dandiarchive.org/)
