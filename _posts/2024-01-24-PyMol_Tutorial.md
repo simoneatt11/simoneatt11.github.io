@@ -22,6 +22,7 @@ Using this peptide for tutorial
 Open peptide.pdb in pymol
 
 Click on show "S" - show as - wire
+
 ![Screenshot 2024-01-12 at 13 22 34](https://github.com/simoneatt11/simoneatt11.github.io/assets/61795621/105dd5d1-876e-4f46-a1c5-5ac7ba04eb68)
 
 Click on label "L" - atom name
