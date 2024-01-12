@@ -8,8 +8,11 @@ The “Alpha Carbons” are the carbon adjacent to the carbonyl groups ( C = O )
 
 The "Alpha Hidrogens" are the hidrogen bound to the Alpha Carbons.
 
-Torsion Angles
-Phi and Psi are the torsion 
+Torsion Angles (Phi, Psi and Omega)
+Phi and Psi are the torsion angles of the Alpha Carbon (CA).
+- Phi is the angle around the - CA - N - bond
+- Psi is the angle around the - CA - C - bond
+- Omega is the angle between - C - N - bond, also called peptide bond.
 
 ### Identify Alpha Carbons with PyMol
 
