@@ -7,9 +7,9 @@ tags:
 ### Identify Alpha Carbons with PyMol
 
 Using this peptide for tutorial
-[peptide.pdb](../files/pept.pdb)
+[peptide.pdb](../files/peptide.pdb)
 
-Open pept.pdb in pymol
+Open peptide.pdb in pymol
 
 ---
 ### References
