@@ -4,7 +4,12 @@ date: 2024-01-24
 tags:
   - PyMol
 ---
-The “Alpha Carbon” Is The Carbon Adjacent To The Carbonyl group ( C = O )
+The “Alpha Carbons” are the carbon adjacent to the carbonyl groups ( C = O ).
+
+The "Alpha Hidrogens" are the hidrogen bound to the Alpha Carbons.
+
+Torsion Angles
+Phi and Psi are the torsion 
 
 ### Identify Alpha Carbons with PyMol
 
