@@ -37,6 +37,6 @@ In this way you will have the Alpha Carbons nicely depicted in your structure.
 
 ---
 ### References
-[Protein Structure - Backbone Torsion Angles](http://www.bioinf.org.uk/teaching/bioc0008/page03.html) (teaching article)
-[Introduction to Alpha Carbon](https://www.youtube.com/watch?v=3PsZSXB4E3Q) (video)
-[What is the Alpha Carbon](https://www.masterorganicchemistry.com/2012/03/26/weird-nomenclature-in-carbonyl-chemistry/#:~:text=The%20%E2%80%9CAlpha%20Carbon%E2%80%9D%20Is%20The%20Carbon%20Adjacent%20To%20The%20Carbonyl,-The%20functional%20group&text=In%20organic%20chemistry%2C%20it's%20common,carbon%E2%80%9D%2C%20and%20so%20on.)
+- [Protein Structure - Backbone Torsion Angles](http://www.bioinf.org.uk/teaching/bioc0008/page03.html) (teaching article)
+- [Introduction to Alpha Carbon](https://www.youtube.com/watch?v=3PsZSXB4E3Q) (video)
+- [What is the Alpha Carbon](https://www.masterorganicchemistry.com/2012/03/26/weird-nomenclature-in-carbonyl-chemistry/#:~:text=The%20%E2%80%9CAlpha%20Carbon%E2%80%9D%20Is%20The%20Carbon%20Adjacent%20To%20The%20Carbonyl,-The%20functional%20group&text=In%20organic%20chemistry%2C%20it's%20common,carbon%E2%80%9D%2C%20and%20so%20on.)
