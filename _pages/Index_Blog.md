@@ -6,6 +6,7 @@ author_profile: true
 ---
 ## 2024
 
+- 20240114 - [reading about AI](../_posts/2024-01-14-Reading_About_AI.md)
 - 20240112 - [pyMol Tutorial for C alpha Visualization](../_posts/2024-01-12-PyMol_Tutorial.md)
 
 ## 2023
