@@ -1,6 +1,6 @@
 ---
 title: 'PyMol tutorial for Alpha Carbon Identification'
-date: 2024-01-24
+date: 2024-01-12
 tags:
   - PyMol
 ---
