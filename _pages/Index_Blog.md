@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## 2024
 
-- 20240112 - [pyMol Tutorial for C alpha Visualization](../_posts/2024-01-24-PyMol_Tutorial.md)
+- 20240112 - [pyMol Tutorial for C alpha Visualization](../_posts/2024-01-12-PyMol_Tutorial.md)
 
 ## 2023
 ### my own public library
