@@ -60,3 +60,8 @@ for pdb_file in pdb_files:
 df = pd.DataFrame(pdb_sequences, columns=['PDB File', 'Chain ID', 'Protein Sequence'])
 ```
 
+
+Exporting the sequences in a csv file
+```
+df.to_csv('pdb_to_sequences.csv', index=False)
+```
