@@ -8,7 +8,7 @@ tags:
 ---
 ### Python script in the same folder containing your PDBs
 
-<img width="625" alt="Screenshot 2024-01-30 at 18 07 29" src="https://github.com/simoneatt11/simoeatt11.github.io/assets/61795621/4f8b5a31-6760-4eb9-b195-a2cdc022e03b">
+<img width="509" alt="Screenshot 2024-01-30 at 18 17 33" src="https://github.com/simoneatt11/simoneatt11.github.io/assets/61795621/176439c1-fee8-40c0-9fe0-4b570e60b35c">
 
 !!! The Current script only works if it is located in the same folder where your PDB files are present. If they are in different folders than you need to specify a different directory later on. 
 
