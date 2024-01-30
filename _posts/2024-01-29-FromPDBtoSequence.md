@@ -6,12 +6,18 @@ tags:
   - Sequence
   - Python
 ---
+### Python script in the same folder containing your PDBs
+<img width="625" alt="Screenshot 2024-01-30 at 18 07 29" src="https://github.com/simoneatt11/simoeatt11.github.io/assets/61795621/4f8b5a31-6760-4eb9-b195-a2cdc022e03b">
 
-### Installing Biopython
+!!! The Current script only works if it is located in the same folder where your PDB files are present. If they are in different folders than you need to specify a different directory later on. 
+
 ```
 pip install biopython
 pip install pandas
+```
 
+
+```
 import glob
 from Bio.PDB import PDBParser
 import pandas as pd
@@ -24,8 +30,8 @@ aa_three_to_one = {
     "SER": "S", "THR": "T", "TRP": "W", "TYR": "Y", "VAL": "V"
 }
 ```
-
-
+- Define a Function that can extract the pdb file, the chain id and the corrensponding sequence
+- Define the current directory and specify for the pdb files you want to extract the sequence from
 ```
 def extract_sequence(pdb_file):
     parser = PDBParser()
@@ -46,7 +52,7 @@ def extract_sequence(pdb_file):
 directory = "./"
 
 # Find all PDB files in the current directory using a wildcard
-pdb_files = glob.glob(directory + "*.pd*")
+pdb_files = glob.glob(directory + "*.pdb")
 
 # Data structure to store pdb file names, chain identifiers, and sequences
 pdb_sequences = []
@@ -59,9 +65,8 @@ for pdb_file in pdb_files:
 # Create a pandas DataFrame
 df = pd.DataFrame(pdb_sequences, columns=['PDB File', 'Chain ID', 'Protein Sequence'])
 ```
+- Exporting the sequences in a csv file called "pdb_to_sequence"
 
-
-Exporting the sequences in a csv file
 ```
 df.to_csv('pdb_to_sequences.csv', index=False)
 ```
