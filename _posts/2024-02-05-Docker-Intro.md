@@ -22,6 +22,32 @@ Every container and process is kept isolated from anything else.
 
 3. Containers VS Virtual Machine
 
+```
+docker run hello-world
+docker run -it ubuntu #for interactive containers
+docker run -d postgres
+
+docker ps #will print the running containers
+```
+
+4. We can specify the name of containers
+
+docker run --name <containername> <image-name>
+
+6. dndocindocin
+
+7. sdvfvsdfbsb
+
+8. sdbsgbsgb
+
+9. sbgs
+
+10. bsdgbsdgb
+
+11. sdbgsdgbsgb
+
+12. sbgsgbsgb
+
 
 
 ---
