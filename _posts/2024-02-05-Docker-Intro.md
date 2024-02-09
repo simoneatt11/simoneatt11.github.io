@@ -31,22 +31,15 @@ docker ps #will print the running containers
 ```
 
 4. We can specify the name of containers
-
+When creating new containers, you can specify their names.
+```
 docker run --name <containername> <image-name>
+```
+The name of the container will be then dysplaied in the last col of docker ps output
+<img width="1000" alt="Screenshot 2024-02-09 at 17 03 38" src="https://github.com/simoneatt11/simoneatt11.github.io/assets/61795621/1d17e08a-f99b-455a-8ce5-1cada7e5c92a">
 
-6. dndocindocin
-
-7. sdvfvsdfbsb
-
-8. sdbsgbsgb
-
-9. sbgs
-
-10. bsdgbsdgb
-
-11. sdbgsdgbsgb
-
-12. sbgsgbsgb
+5. 
+6. 
 
 
 
