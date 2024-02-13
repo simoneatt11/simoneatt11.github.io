@@ -17,6 +17,7 @@ Remember to disconnect everything after your runtime
 ---
 ### References 
 - [Colab AlphaFold2](https://colab.research.google.com/github/deepmind/alphafold/blob/main/notebooks/AlphaFold.ipynb?pli=1) (Source Code)
+- [AF2](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb)
 - [How to use AF2](https://www.youtube.com/watch?v=eLy7PdzRgLs) (Video)
 - [Interpretation of predicted complexes with AF2](https://www.youtube.com/watch?v=_hkxQ8h6L-Q) (Video)
 - [ColabFold: making protein folding accessible to all](https://www.nature.com/articles/s41592-022-01488-1) (Nature paper - Mirdita et al. 2022) 
