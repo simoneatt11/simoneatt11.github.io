@@ -69,10 +69,59 @@ docker image prune -a # removes all the stopped containers
 
 6. How to distribute images
 
+You can upload (push) an image to a docker registry using 
+
+```
+docker image push <image name>
+```
+Include the private registry name in the docker image name before, if you want to push it in a specific registry.
+Usually there are security limitations to a docker registry. You can login using the docker login command
+
+You can also send the docker image to people. Save it as a file and share it. The persone receiving it will open it using the load command
+```
+docker save -o image.tar <image name>
+docker load -i image.tar
+```
+
+7. How to create oue own images
+
+DOCKERIMAGES are the recipy to create DOCKERCONTAINERS. To make these images we need to create a list of instructions, that we call DOCKERFILE
+
+A DOCKERFILE always starts FROM another DOCKERIMAGE. (indeed using the command FROM + image name)
+
+```
+docker build -t first_image .
+```
+Personalize your immage with RUN commands. (treat it as a txt file, using nano or echo and append commands)
+
+8.  Copying files into images
+```
+COPY <path-to-file-name> <path-to-file-in-destination-image>
+```
+without specification, everything in that file path will be copied.
+To download and unzip files use RUN curl and RUN unzip. then remove the zip folder running RUN rm
+```
+RUN curl <file_url> -o <destination>
+RUN unzip <file-path>/<filename>.zip -d <unzipped-directory>
+RUN rm <file-path>/<filename>.zip
+```
+you can pipe the 3 commands using "\\" at the end of each line 
+
+
+
+
+9.  
+
+10. 
 
 
 
 ---
+
+To do: look for a summary table for all docker commands
+
+---
+
 ### References:
 - [Intro to docker - Datacamp](https://app.datacamp.com/learn/courses/introduction-to-docker)https://app.datacamp.com/learn/courses/introduction-to-docker)
 - [Docker Tutorial](https://www.youtube.com/watch?v=3c-iBn73dDE) - Video
