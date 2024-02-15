@@ -107,12 +107,16 @@ RUN rm <file-path>/<filename>.zip
 ```
 you can pipe the 3 commands using "\\" at the end of each line 
 
+9.  The starting command for a docker
+
+CMD command accept only the shell command to execute when it starts 
+
+10.  Layers and coaching
 
 
+11.  
 
-9.  
-
-10. 
+12. 
 
 
 
