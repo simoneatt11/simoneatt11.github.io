@@ -130,3 +130,5 @@ To do: look for a summary table for all docker commands
 - [Intro to docker - Datacamp](https://app.datacamp.com/learn/courses/introduction-to-docker)https://app.datacamp.com/learn/courses/introduction-to-docker)
 - [Docker Tutorial](https://www.youtube.com/watch?v=3c-iBn73dDE) - Video
 - [Docker Intro - FreeCodeCamp](https://www.freecodecamp.org/news/the-docker-handbook/) - eBook
+- [Docker Playlist](https://www.youtube.com/watch?v=gFjxB0Jn8Wo&list=PL6gx4Cwl9DGBkvpSIgwchk0glHLz7CQ-7) - YouTube PLaylist
+- [FreeCodeCamp full video - 5 hours](https://www.youtube.com/watch?v=kTp5xUtcalw) - YouTube video
