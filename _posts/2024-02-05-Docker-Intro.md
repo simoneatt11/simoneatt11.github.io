@@ -49,6 +49,9 @@ docker container rm <container_name>
 ```
 
 5. pulling images from docker hub
+
+Images are read only template containing instructions for containing a container. A container is a runnable instance of the image, and is an isolated environment.
+DOCKERIMAGES are the recipy to create DOCKERCONTAINERS. To make these images we need to create a list of instructions, that we call DOCKERFILE
 ```
 docker pull <image_name>
 ```
@@ -83,9 +86,7 @@ docker save -o image.tar <image name>
 docker load -i image.tar
 ```
 
-7. How to create oue own images
-
-DOCKERIMAGES are the recipy to create DOCKERCONTAINERS. To make these images we need to create a list of instructions, that we call DOCKERFILE
+7. How to create our own images
 
 A DOCKERFILE always starts FROM another DOCKERIMAGE. (indeed using the command FROM + image name)
 
@@ -122,7 +123,10 @@ CMD command accept only the shell command to execute when it starts
 
 ---
 
-To do: look for a summary table for all docker commands
+### Command Cheat sheets
+
+[docker_cheatsheet.pdf](https://github.com/simoneatt11/simoneatt11.github.io/files/14297240/docker_cheatsheet.pdf)
+
 
 ---
 
