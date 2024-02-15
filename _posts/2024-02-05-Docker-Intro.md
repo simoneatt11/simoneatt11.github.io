@@ -129,3 +129,4 @@ To do: look for a summary table for all docker commands
 ### References:
 - [Intro to docker - Datacamp](https://app.datacamp.com/learn/courses/introduction-to-docker)https://app.datacamp.com/learn/courses/introduction-to-docker)
 - [Docker Tutorial](https://www.youtube.com/watch?v=3c-iBn73dDE) - Video
+- [Docker Intro - FreeCodeCamp](https://www.freecodecamp.org/news/the-docker-handbook/) - eBook
