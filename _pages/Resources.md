@@ -84,3 +84,7 @@ I hope you find something useful.
 - [Disprot](https://www.disprot.org/)
 - [Protein Prediction from partial sequence (ROST Lab)](https://predictprotein.org/)
 - [CAID - Sequence based prediction of IDP](https://caid.idpcentral.org/submit)
+
+### General and intro
+- [Foundations of Computational and Systems Biology](https://ocw.mit.edu/courses/7-91j-foundations-of-computational-and-systems-biology-spring-2014/video_galleries/video-lectures/) - MIT video Course
+- [PhasAge Educational Resources](https://phasage.eu/educational-resources/) - Video Lectures on IDPs
