@@ -25,6 +25,9 @@ I hope you find something useful.
 - [PhyloT - phylogenetic tree generator](https://phylot.biobyte.de/)
 - [Illumina Sequencing tutorials (website)](https://www.illumina.com/techniques/sequencing.html)
 - [An Owner's guide to the human Genome](https://web.stanford.edu/group/pritchardlab/HGbook.html) - book from Jonathan Pritchard
+- [Seqera](https://seqera.io/)
+- [Gene Ontology](https://geneontology.org/)
+- [Decipher - Mapping the clinical Genome](https://www.deciphergenomics.org/)
 
 ### Data Science
 - [Python IDE easy for beginners - Thonny (website)](https://thonny.org/)
@@ -64,6 +67,7 @@ I hope you find something useful.
 - [NCBI Datasets](https://www.ncbi.nlm.nih.gov/datasets/)
 
 ### miscellaneous
+- [Glittr - Git repositories with bioinformatics training material](https://glittr.org/?per_page=25&sort_by=stargazers&sort_direction=desc)
 - [Biostar tutorials ordered by view (website)](https://www.biostars.org/t/tutorials/?order=views)
 - [Rtutor](https://rtutor.ai/) - AI teaching you R
 - [Elixir - Training material(website)](https://tess.elixir-europe.org/materials)
@@ -77,6 +81,10 @@ I hope you find something useful.
 - [Open Bioinformatics Foundation (Resources and events)](https://www.open-bio.org/)
 - [Python for microscopists](https://www.youtube.com/watch?v=X_pCiVQ4c4E&list=PLZsOBAyNTZwYHBIlu_PUO19M7aHMgwBJr) - YouTube Playlist by DigitalSreeni
 - [Modern Statistics For Biology](https://www.huber.embl.de/msmb/) - BEST Open Source Statistics Book
+
+### Training and seminars
+- [Swiss Institute of Bioinformatics](https://www.sib.swiss/training/upcoming-training-courses)
+- [EMBL Training](https://www.embl.org/training/)
 
 ### Amy 
 - [Human integrated protein-protein interaction reference (HIPPIE)](http://cbdm-01.zdv.uni-mainz.de/~mschaefer/hippie/index.php)
