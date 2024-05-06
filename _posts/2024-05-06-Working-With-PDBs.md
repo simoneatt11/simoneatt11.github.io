@@ -39,7 +39,7 @@ done < "$1"
 to split the PDB, locate in the same folder the executable and the PDB file and run:
 
 ```
-splitter.sh xxx.pdb
+./splitter.sh xxx.pdb
 ```
 
 
