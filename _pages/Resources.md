@@ -30,7 +30,7 @@ I hope you find something useful.
 - [Decipher - Mapping the clinical Genome](https://www.deciphergenomics.org/)
 
 ### Data Science
-- [Data Science Interactive Python]([https://github.com/GeostatsGuy/DataScience_Interactive_Python/tree/main](https://github.com/GeostatsGuy/DataScience_Interactive_Python/tree/main?tab=readme-ov-file#datascience_interactive_python))
+- [Data Science Interactive Python](https://github.com/GeostatsGuy/DataScience_Interactive_Python/tree/main?tab=readme-ov-file#datascience_interactive_python)
 - [Python IDE easy for beginners - Thonny (website)](https://thonny.org/)
 - [Python tutorial(website)](https://docs.python.org/3/tutorial/index.html)
 - [Python tutorial - Lessons and exercises(website (W3)](<https://www.w3schools.com/python/default.asp>)
