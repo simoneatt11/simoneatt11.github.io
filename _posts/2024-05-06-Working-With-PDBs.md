@@ -9,6 +9,8 @@ tags:
 
 ### Changing residue numbers 
 
+Just found a page where everything is already present - [pdb-tools](https://www.bonvinlab.org/pdb-tools/)
+
 ### Separating different chains 
 If you need to separate a single PDB file into different chains you can do it directly from terminal, using this simple script.
 
