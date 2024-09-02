@@ -82,7 +82,7 @@ I hope you find something useful.
 - [Open Bioinformatics Foundation (Resources and events)](https://www.open-bio.org/)
 - [Python for microscopists](https://www.youtube.com/watch?v=X_pCiVQ4c4E&list=PLZsOBAyNTZwYHBIlu_PUO19M7aHMgwBJr) - YouTube Playlist by DigitalSreeni
 - [Modern Statistics For Biology](https://www.huber.embl.de/msmb/) - BEST Open Source Statistics Book
-- [Windows Emulator](https://bellard.org/jslinux/)
+- [Windows Emulator](https://bellard.org/jslinux/) - Emulate windows environment in Java
 
 ### Training and seminars
 - [Swiss Institute of Bioinformatics](https://www.sib.swiss/training/upcoming-training-courses)
