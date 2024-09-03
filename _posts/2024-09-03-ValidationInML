@@ -7,6 +7,7 @@ tags:
 ### What is validation 
 In ML validation means assessing how performant a system is on previously unseen data. 
 
+Depending on the dimension of the dataset there will be different strategies for training and testing of the model. 
 
 ---
 ### References:
