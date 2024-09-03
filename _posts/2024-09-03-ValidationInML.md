@@ -7,7 +7,7 @@ tags:
 ### What is validation 
 In ML validation means assessing how performant a system is on previously unseen data. 
 
-- Direct validation (DV - train and test) is the most straightforward method. A part of the dataset is used to train the model and another is used to test the performance of the model. 
+- Direct validation (DV - train and test) also known as holdout validation, is the most straightforward method. A part of the dataset is used to train the model and another is used to test the performance of the model. 
 
 Depending on the dimension of the dataset there will be different strategies for training and testing of the model. 
 
