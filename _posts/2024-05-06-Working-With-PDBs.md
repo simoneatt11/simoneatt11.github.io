@@ -4,12 +4,38 @@ date: 2024-05-06
 tags:
   - PDB
 ---
+last modification 20240910 - Adding Rscript for changing residues. 
+PDB_residueChanger.R
 
 # Working with PDBs 
 
 ### Changing residue numbers 
 
 Just found a page where everything is already present - [pdb-tools](https://www.bonvinlab.org/pdb-tools/)
+
+### renumbering a PDB 
+
+```
+# Install and load required packages
+install.packages("bio3d")
+library(bio3d)
+
+pdb <- read.pdb("~/path/to/your/file.pdb")
+
+# Extract atomic coordinates
+coords <- pdb$atom
+
+# change the number (32) and adjust "+" or "-" depending on what is needed
+coords$resno <- coords$resno + 32
+
+# Create a new pdb
+pdb_new <- pdb
+pdb_new$atom <- coords
+
+# Write modified PDB file
+write.pdb(pdb_new, file = "file.pdb")
+
+```
 
 ### Separating different chains 
 If you need to separate a single PDB file into different chains you can do it directly from terminal, using this simple script.
