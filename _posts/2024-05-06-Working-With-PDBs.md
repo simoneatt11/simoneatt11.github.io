@@ -13,7 +13,8 @@ PDB_residueChanger.R
 
 Just found a page where everything is already present - [pdb-tools](https://www.bonvinlab.org/pdb-tools/)
 
-### renumbering a PDB 
+### Renumbering a PDB 
+When renumbering check that the new 3D structure is not altered.
 
 ```
 # Install and load required packages
