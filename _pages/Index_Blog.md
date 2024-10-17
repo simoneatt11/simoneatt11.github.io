@@ -6,6 +6,7 @@ author_profile: true
 ---
 ## 2024
 
+- 20241017 - [ECCB conference - Helsinki](../_posts/2024-10-17-ECCB2024-Helsinki.md) - ref and notes 
 - 20240903 - [Validation in ML](../_posts/2024-09-03-ValidationInML.md) - notes
 - 20240506 - [Working with PDBs](../_posts/2024-05-06-Working-With-PDBs.md) - work in progress
 - 20240205 - [Learning Docker](../_posts/2024-02-05-Docker-Intro.md) - work in progress
