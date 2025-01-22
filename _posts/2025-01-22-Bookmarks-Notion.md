@@ -92,3 +92,8 @@ https://gist.github.com/iamandrewluca/9e46589f42545446fa387ac193c43634
   }
 })();
 ```
+After importing, in Notion transform URL from text to url so that you can click on each link. 
+
+![Screenshot 2025-01-22 at 16 06 56](https://github.com/user-attachments/assets/55683a12-ecb9-482e-959b-323e62fdf247)
+
+That’s it
