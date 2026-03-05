@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: archive 
 title: "Index Blog"
 permalink: /Index_Blog/
 author_profile: true
