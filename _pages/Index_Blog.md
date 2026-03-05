@@ -5,7 +5,9 @@ permalink: /Index_Blog/
 author_profile: true
 ---
 ## 2026
-- 20231115 - [Tubulin representation](../_posts/2023-11-15-TubulinPyMol.md)
+- 20260305 - [Tubulin representation](../_posts/2023-11-15-TubulinPyMol.md)
+- 20260305 - [Synuclein representation](../_posts/2026-03-03-SynucleinPyMol.md)
+- 20260305 - Tau representation - wip 
 
 ## 2024
 
